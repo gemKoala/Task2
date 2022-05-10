@@ -1,0 +1,42 @@
+.widthFull{
+	background-color:	crimson;
+	height: 200px;
+	border: 2px solid black;
+	font-family: Arial;
+	font-size: 20px;
+}
+.h1{
+	padding-left: 650px;
+}
+.widthSemi{
+	background-color:red;
+	width: 650px;
+	height: 500px;
+	border: 5px solid black;
+	margin-top: 20px;
+	margin-left: 500px;
+}
+.text{
+	background-color: cyan;
+	width: 1500px;
+	height: 150px;
+	border: 5px solid black;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+.widthFull2{
+	background-color:	lime;
+	height: 200px;
+	border: 5px solid black;
+	font-family: Arial;
+	font-size: 20px;
+	margin-bottom: 1510px;
+
+}
+.gem{
+	padding-left: 250px;
+	padding-top: 200px;
+}
+.volokno{
+	padding-left: 650px;
+}
